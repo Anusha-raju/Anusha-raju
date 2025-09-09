@@ -2,7 +2,6 @@
 
 🚀 **Data Scientist | AI/ML Engineer | Researcher in Skills Intelligence**  
 
-I bridge applied machine learning, natural language processing, and research in skills intelligence.  
 My work spans **AI-driven skill extraction (LAiSER)**, **graph-powered RAG systems (GearGuide)**, and **deep learning for human activity recognition (HAR)** — with applications in education, workforce development, and real-world problem-solving.  
 
 ---
