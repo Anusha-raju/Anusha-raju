@@ -65,12 +65,6 @@ My work spans **AI-driven skill extraction (LAiSER)**, **graph-powered RAG syste
 
 ---
 
-## 📊 GitHub Stats  
-
-![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anusha-raju&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha-raju&layout=compact&theme=radical)  
-
----
 
 ## 📫 Connect with Me  
 
