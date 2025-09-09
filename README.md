@@ -43,7 +43,7 @@ My work spans **AI-driven skill extraction (LAiSER)**, **graph-powered RAG syste
 
 - 🎤 **Badge Summit 2025** – Presented *“Skills Are the Common Language”*.  
 - 🛠 **GearGuide (NextAI Hacks 2025)** – RAG chatbot for automotive troubleshooting with Neo4j + OpenAI.  
-- 🌍 **UN Open Source Hackathon 2025** – Geospatial hazard impact analysis for UNICEF.  
+- 🌍 **UN Open Source Hackathon 2025** – Geospatial hazard impact analysis for UN.  
 - 🎮 **HoyaHacks 2025 (Microsoft)** – Real-time coding game for classrooms.  
 - 📊 **World Bank DataDive 2024** – Jobs & productivity analysis across countries.  
 
