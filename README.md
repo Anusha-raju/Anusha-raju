@@ -73,9 +73,11 @@ My work spans **AI-driven skill extraction (LAiSER)**, **causal inference & expe
 
 ## 🚀 Projects  
 
-- **[Marketing Incrementality & Customer Behavior Intelligence Platform](https://github.com/Anusha-raju/marketing-intelligence-platform.git)** → End-to-end ML system for customer analytics, A/B testing, and causal inference; modeled conversion across ~99K customers and showed naive campaign lift was overstated by ~2.7x after IPTW adjustment.  
+- **[BRIDGE](https://github.com/Anusha-raju/spring-2026-group1.git)** → BRIDGE is an enterprise-grade multi-agent RAG platform that coordinates specialized AI agents to retrieve and synthesize domain-specific knowledge — achieving **93% MRR** grounding accuracy by combining hybrid vector retrieval with custom semantic chunking strategies.
 
-- **[Privacy-First RAG Support Assistant](https://github.com/Anusha-raju/agentic-rag-support.git)** → Built a fully offline, privacy-preserving RAG system using Llama 3 (Ollama) with hybrid retrieval and grounding strategies to reduce hallucinations in sensitive workflows.  
+- **[Privacy-First RAG Support Assistant - Support Genie](https://github.com/Anusha-raju/agentic-rag-support.git)** → Built a fully offline, privacy-preserving RAG system using Llama 3 (Ollama) with hybrid retrieval and grounding strategies to reduce hallucinations in sensitive workflows. 
+
+- **[Marketing Incrementality & Customer Behavior Intelligence Platform](https://github.com/Anusha-raju/marketing-intelligence-platform.git)** → End-to-end ML system for customer analytics, A/B testing, and causal inference; modeled conversion across ~99K customers and showed naive campaign lift was overstated by ~2.7x after IPTW adjustment.  
 
 - **[LAiSER](https://laiser.gwu.edu/about-us)** → AI-powered skills extraction and taxonomy alignment platform using LLM pipelines, embeddings, and API-based orchestration for large-scale job data.  
 - **[GearGuide](https://github.com/Anusha-raju/GearGuidev2.git)** → Graph-grounded RAG system integrating Neo4j, hybrid retrieval, and re-ranking for multi-step diagnostic reasoning.
