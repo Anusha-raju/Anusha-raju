@@ -72,7 +72,7 @@ Three years of NLP and LLM work in production. These days that means **LangGraph
 
 ## 🚀 Projects
 
-- **[BRIDGE](https://github.com/Anusha-raju/spring-2026-group1.git)** →  Moved agents from **prompt stuffing to tool-driven RAG**: each clinical persona is its own agent with a dedicated retriever, calling `search_case_knowledge` and `web_search` on demand.
+- **[BRIDGE](http://35.169.252.108:8080/)** →  Moved agents from **prompt stuffing to tool-driven RAG**: each clinical persona is its own agent with a dedicated retriever, calling `search_case_knowledge` and `web_search` on demand.
 Made **scope of practice a schema, not a prompt warning** a `ScopeAwareReferral` structured output makes each agent reason about what it's qualified to answer and refer out.
 Built the release gate: **groundedness and faithfulness scoring, tool-call accuracy, trajectory evals with an LLM judge**.
 - **[Support Genie - Privacy-First RAG Assistant](https://github.com/Anusha-raju/agentic-rag-support.git)** → Fully offline RAG on **Llama 3 (Ollama)** over a hand-written vector store. No API key, no egress for runbooks and incident history that can't leave the building.
