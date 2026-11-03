@@ -29,6 +29,7 @@ My habits: evals before features · a trace on every run · structured outputs i
 
 ### 🧭 How I build an agent
 
+
 ```mermaid
 flowchart LR
     U([User query]) --> A{Agent<br/>LangGraph}
