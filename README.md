@@ -144,13 +144,14 @@ flowchart LR
 ### 📊 GitHub activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Anusha-raju/Anusha-raju/main/metrics.isocalendar.svg" alt="Contribution graph" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anusha-raju/Anusha-raju/output/snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Anusha-raju/Anusha-raju/output/snake.svg" alt="Contribution snake" />
   </picture>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anusha-raju&bg_color=00000000&color=2D6A5F&line=2D6A5F&point=1F3864&area=true&area_color=2D6A5F&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
