@@ -139,22 +139,9 @@ flowchart LR
 | **Evals & LLMOps** | LangSmith · Langfuse · RAGAS · LLM-as-Judge · Pytest |
 | **ML & NLP** | PyTorch · Hugging Face Transformers · scikit-learn · XGBoost · causal inference (IPTW) |
 
----
-
-### 📊 GitHub activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anusha-raju/Anusha-raju/main/metrics.isocalendar.svg" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anusha-raju/Anusha-raju/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Anusha-raju/Anusha-raju/output/snake.svg" alt="Contribution snake" />
-  </picture>
-</p>
 
 ---
+
 
 ### 🏅 Recognition & education
 
