@@ -143,7 +143,10 @@ flowchart LR
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anusha-raju&theme=transparent&hide_border=true&ring=2D6A5F&fire=2D6A5F&currStreakLabel=2D6A5F" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anusha-raju/Anusha-raju/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Anusha-raju/Anusha-raju/output/snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anusha-raju&bg_color=00000000&color=2D6A5F&line=2D6A5F&point=1F3864&area=true&area_color=2D6A5F&hide_border=true" alt="Contribution graph" />
